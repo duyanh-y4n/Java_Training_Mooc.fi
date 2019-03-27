@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week2-035.SumOfThePowers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="SumOfThePowers" />
+    <module name="week2-035.SumOfThePowers" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
