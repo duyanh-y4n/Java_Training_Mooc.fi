@@ -9,6 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
+// TODO: finish test
 @Points("16.1 16.2 16.3 16.4")
 public class SkiJumpingTest {
 
